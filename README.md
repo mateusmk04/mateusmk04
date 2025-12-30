@@ -22,7 +22,7 @@ Desenvolvedor com foco em sistemas escaláveis e análise de dados. Utilizo minh
 
 ### 🧬 O Diferencial da Física no XR e Dados:
 Minha formação me permite compreender os fundamentos dos algoritmos modernos:
-* **Óptica e Formação de Imagem:** Essencial para calibração de câmeras e sensores em XR.
+* **Óptica Física:** Essencial para calibração de câmeras e sensores em XR.
 * **Modelagem Estocástica:** Base para algoritmos de Ciência de Dados e análise preditiva.
 * **Resolução de Problemas:** Experiência em modelar sistemas físicos complexos através de modelos de Sistemas Dinâmicos em Tempo Discreto, facilitando a abstração em arquiteturas de software.
 
