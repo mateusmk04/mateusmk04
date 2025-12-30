@@ -9,7 +9,7 @@ Desenvolvedor com foco em sistemas escaláveis e análise de dados. Utilizo minh
 ### 🛠️ O que eu faço atualmente:
 * **Backend Developer:** Contribuo no projeto **G08-BP-Company** dentro do programa **Residência em TIC**. Foco na construção de arquiteturas robustas.
 * **Data Science:** Aplico modelos estatísticos e matemáticos para análise de dados voltados ao setor de **vendas** da loja **Play Cell**, unindo meu interesse por Ciência de Dados à resolução de problemas de negócio.
-* **Física Aplicada:** Implementação de sistemas de controle na Gheeck Jr. através da integração entre hardware (Arduino) e software. Atuação no desenvolvimento de uma fechadura eletrônica.
+* **Física Aplicada:** Implementação de sistemas de controle na **Gheeck Jr**. através da integração entre hardware (Arduino) e software. Atuo no desenvolvimento de uma fechadura eletrônica.
 
 ---
 
