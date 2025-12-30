@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus! 👋
 
-### 🚀 Estudante de Física | Desenvolvedor Backend | Aspirante a Ciência de Dados 
+### 🚀 Estudante de Física | Desenvolvedor Backend | Entusiaste em Ciência de Dados 
 
 Desenvolvedor com foco em sistemas escaláveis e análise de dados. Utilizo minha base acadêmica em **Física** para resolver desafios técnicos em **Visão Computacional**, **Engenharia de Software** e **Ciência de Dados**.
 
