@@ -14,8 +14,8 @@ Desenvolvedor com foco em sistemas escaláveis e análise de dados. Utilizo minh
 ---
 
 ### 💻 Stack Técnica:
-* **Backend:** Python, Docker.
-* **Dados:** Python (Pandas, NumPy, Matplotlib).
+* **Backend:** Python, Docker, C & C++.
+* **Hardware & Dados:** Arduino (C++), Python (Pandas, NumPy)
 * **Versionamento:** Git e metodologias ágeis em equipe.
 
 ---
